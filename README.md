@@ -1,7 +1,7 @@
 Vector Field Exporter for Blender
 =======================================
 
-Vector Field Exporter for Blender allows You to create Vector Fields inside Blender, and to export them in the .FGA format to be used in other applications that support this format (e.g
+Vector Field Exporter for Blender allows You to create Vector Fields inside Blender, and to export them in the .FGA format to be used in other applications that support this format (e.g Unreal Engine 4)
   
 ------------------------------------------------------------------------------------------------------- 
  
